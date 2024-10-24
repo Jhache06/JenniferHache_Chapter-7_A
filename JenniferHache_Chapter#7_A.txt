@@ -1,0 +1,120 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red239\green239\blue239;\red0\green0\blue0;\red34\green45\blue53;
+\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c94902\c94902\c94902;\cssrgb\c0\c0\c0;\cssrgb\c17647\c23137\c27059;
+\cssrgb\c100000\c100000\c100000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid102\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid202\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid302\'01\'01;}{\levelnumbers\'01;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww13180\viewh11100\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Name:\strokec0  Jennifer Hache\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Date Created: Oct 23, 2024\strokec0 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Program Description:\strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb5 \strokec4 This program will allow user to enter any number of sentences, including sentences which begin with numbers. The program will display the sentences and the count of sentences.\'a0\cf0 \cb2 \strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Functions used in the Program (list in order as they are called):\strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 1.\strokec0  \strokec3 Function Name: while loop\strokec0 \
+\strokec3  \
+Description:\strokec0  \cb1 \strokec3 Collects sentences from the user\cb2 \strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Parameters: none\strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Variables:\strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb1 \strokec3 	paragraph: stores user input.\
+	paragraphs: List to accumulate sentences.\
+Returns: the sentences once the program is run.\
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb2 \strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\partightenfactor0
+\cf0 Logical Steps:\strokec0 \
+\strokec3  \strokec0 	\cb1 \strokec3 Start a loop (\strokec3 while True\strokec3 ).\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 	Prompt the user for input their sentences\
+	Check if the input is 'done' by asking user to enter \'91done\'92\
+	If 'done', break the loop.  otherwise, append the input to the paragraphs list.\cb2 \strokec0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec3 \
+\pard\pardeftab720\sa280\partightenfactor0
+\cf0 \cb1 \strokec3 Combining Sentences - all_sentences\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 Description: Joins all collected sentences into a single string.\
+\ls1\ilvl0Parameters: None.\
+\ls1\ilvl0Variables:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 all_sentences: A string containing all sentences joined by spaces.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 Logical Steps:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Use ' '.join(paragraphs) to join sentences with a space in between.\
+\pard\pardeftab720\sa280\partightenfactor0
+\cf0 \
+3. Splitting Sentences\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf0 Description: Splits the combined string into separate sentences using a regular expression.\
+\ls2\ilvl0Parameters: None.\
+\ls2\ilvl0Variables:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls2\ilvl1\cf0 	pat_sentences: A list of sentences split from the combined string.\
+Returns: 	n/a\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf0 Logical Steps:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls2\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Use re.split(r'[A-Z].*?[.!?](?= [A-Z]|$)', all_sentences)\
+	 to identify sentence boundaries based on punctuation and capital letters. (From book).\
+\pard\pardeftab720\sa280\partightenfactor0
+\cf0 \
+4. Counting Sentences - count_sentences\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf0 Description: Counts the number of sentences entered by the user.\
+\ls3\ilvl0Parameters: None.\
+\ls3\ilvl0Variables:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls3\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 count_sentences: An integer representing the number of sentences in paragraphs.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf0 Logical Steps:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls3\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Use len(paragraphs) to count the number of sentences. \
+Returns: the number of sentences\
+\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\cf0 Link to Repository: https://github.com/Jhache06/JenniferHache_Chapter-7_A.git\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls4\ilvl1\cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f1 \cf0 \cb2 \strokec0 \
+}
